@@ -18,6 +18,23 @@
   filter: drop-shadow(0 0 2em #61dafbaa);
 }
 
+ul {
+  background: #3399ff;
+  padding: 20px;
+  margin: 10px;
+  list-style-type: none;
+  border-radius: 10%;
+}
+
+ul li {
+  background: #cce5ff;
+  color: darkblue;
+  padding: 20px;
+  margin: 10px;
+  border-radius: 10%;
+}
+
+
 @keyframes logo-spin {
   from {
     transform: rotate(0deg);
